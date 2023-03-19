@@ -165,7 +165,7 @@ body {
   color: var(--primary);
 }
 
-.about .row {
+.about .row  {
   display: flex;
 }
 
